@@ -3,15 +3,13 @@
 
 The Simple CrossOver Profiles Manager is a simple tool that allows users to save and load configuration profiles efficiently. This tool is designed to facilitate the management of multiple configurations, enabling users to quickly switch between different profiles as needed.
 
-Features
+## Features
 
-Simple Interface: Easy to use, with intuitive commands for profile management.
-Requirements
+Easy to use, with intuitive commands for profile management.
+
+## Requirements
 PowerShell (any version compatible with your Windows operating system).
-Installation
-Download the Script: Ensure you have the ProfilesManager.ps1 script on your system.
 
-Script Location: Place the ProfilesManager.ps1 file in the following directory:
 
 
 ## Features
